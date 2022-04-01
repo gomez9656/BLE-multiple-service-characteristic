@@ -1,0 +1,10 @@
+service.c:38:12:add_services	144	static
+service.c:77:6:update_bpm_data	32	static
+service.c:88:6:update_weight_data	32	static
+service.c:99:6:update_temp_data	32	static
+service.c:110:6:update_hum_data	32	static
+service.c:136:6:Read_Request_CB	16	static
+service.c:169:6:aci_gatt_read_permit_req_event	16	static
+service.c:174:6:hci_le_connection_complete_event	16	static
+service.c:182:6:hci_disconnection_complete_event	16	static
+service.c:191:6:APP_UserEvRx	40	static
